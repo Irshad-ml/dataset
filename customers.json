@@ -448,6 +448,24 @@
     "phone": "9398765432",
     "city": "Mumbai",
     "registration_date": "2023-05-31"
+  },
+    {
+    "customer_id": 149,
+    "first_name": "Tanya",
+    "last_name": "Verma",
+    "email": "user149@example.com",
+    "phone": "9409876543",
+    "city": "Delhi",
+    "registration_date": "2023-06-20"
+  },
+  {
+    "customer_id": 150,
+    "first_name": "Aman",
+    "last_name": "Joshi",
+    "email": "user150@example.com",
+    "phone": "9398765432",
+    "city": "Mumbai",
+    "registration_date": "2023-05-31"
   }
 
 ]
